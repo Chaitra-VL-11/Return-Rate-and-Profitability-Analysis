@@ -119,7 +119,7 @@ Retail businesses often struggle with balancing profitability while managing pro
 * Growth is on track – maintain current momentum by optimizing high-performing areas and fixing minor inefficiencies.​
 
 ### Screenshot / Demo
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/Chaitra-VL-11/Return-Rate-and-Profitability-Analysis/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ​
 
