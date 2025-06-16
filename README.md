@@ -98,6 +98,28 @@ Retail businesses often struggle with balancing profitability while managing pro
 * Customer segments and delivery methods play a key role in profitability, guiding marketing and logistics strategies.
 
 * Identified top cities and customer groups contributing the highest profits, supporting targeting efforts.
+  
+* High discount tiers (20–30%) hurt profitability Up to 15% profit loss identified.
+  
+* Certain sub-categories had high return rates Fixing these could recover 5–10% margins.
+
+* Returned orders are not unprofitable Avoids over-investment in reverse logistics change.
+
+* Regional focus revealed cities needing improvement Targeted actions can boost regional profit.
+
+* Profitability growing MoM Confirms healthy trend and smart discounting.
+
+* Return rate was approximately 11%, impacting refund and logistics costs.
+
+* Orders with 20–30% discount had the lowest average profit.
+
+* Limiting high-discount campaigns could recover up to 10–15% in lost margins.
+
+* Sub-categories like Scissors, Trimmers, and Tables had return rates of 1.24%–1.45%.
+
+* Targeting improvements in these categories could recover 5–10% in margin loss.
+
+* Returned orders had higher average profit ($238.14) than non-returned ($137.88).
 
 ### Key business insights & Recommendations​:
 * The most frequently sold products are popular and have consistent customer demand. Ensure these products are always in stock.​
